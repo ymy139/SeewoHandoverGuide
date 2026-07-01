@@ -1,0 +1,10 @@
+[project]
+name = "seewohandoverguide"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "shibuya>=2026.5.19",
+    "sphinx>=9.0.4",
+]
