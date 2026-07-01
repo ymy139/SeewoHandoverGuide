@@ -26,3 +26,5 @@ language = 'zh_CN'
 
 html_theme = 'shibuya'
 html_static_path = ['_static']
+
+master_doc = 'index'
